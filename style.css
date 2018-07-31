@@ -10,9 +10,9 @@ header {
   background-color: blue;
 }
 header::after{
-  content: 
-  display: 
-  clear: 
+  content: '';
+  display: table;
+  clear: both;
 }
 nav {  
   float: right;
