@@ -9,7 +9,9 @@ p {
 header {
   background-color: blue;
 }
-header after
+header::after{
+  
+}
 nav {  
   float: right;
 }
