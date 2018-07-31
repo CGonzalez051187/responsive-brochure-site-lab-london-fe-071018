@@ -1,6 +1,6 @@
 div {
   background-color: Red;
-  border-style: inset;
+  border-style: solid inset;
 }
 p {
     text-align: center;
