@@ -17,7 +17,7 @@ header::after{
 nav {  
   float: right;
 }
-nav ul {
+nav li {
   margin: 10;
   padding: 10;
   list-style: none;
